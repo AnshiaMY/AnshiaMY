@@ -2,25 +2,71 @@
 
 # ANSHIA // INTELLIGENT SYSTEMS LAB
 
-### Engineering systems that sense, reason, and act.
-
-`ROBOTICS` • `SOFTWARE` • `EMBEDDED SYSTEMS` • `CONTROL` • `AI / ML`
-
-<br>
-
-### SENSE → PERCEIVE → REASON → DECIDE → ACT
-
-</div>
-
----
-
-<div ali // INTELLIGENT SYSTEMS LAB
-
 ### Intelligence in motion.
 
-`INPUT / SENSE` → `PROCESS` → `REASON` → `CONTROL` → `ACT`
+<sub>
+<code>SYS // ACTIVE</code>
+&nbsp;&nbsp;
+<code>MODE // BUILD + LEARN</code>
+&nbsp;&nbsp;
+<code>FOCUS // INTELLIGENT SYSTEMS</code>
+</sub>
+
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<strong>01 // INPUT / SENSE</strong>
+
+<sub>Sensors + Data</sub>
+
+Observe the real world.
+
+</td>
+<td align="center" width="20%">
+
+<strong>02 // PROCESS</strong>
+
+<sub>Signals + Information</sub>
+
+Turn inputs into usable data.
+
+</td>
+<td align="center" width="20%">
+
+<strong>03 // REASON</strong>
+
+<sub>Algorithms + Intelligence</sub>
+
+Find patterns. Make decisions.
 
 <br>
+
+<code>AI / ML // DEVELOPING</code>
+
+</td>
+<td align="center" width="20%">
+
+<strong>04 // CONTROL</strong>
+
+<sub>Logic + Control Systems</sub>
+
+Decide how the system responds.
+
+</td>
+<td align="center" width="20%">
+
+<strong>05 // ACT</strong>
+
+<sub>Software + Physical Systems</sub>
+
+Turn decisions into action.
+
+</td>
+</tr>
+</table>
 
 **ROBOTICS • EMBEDDED SYSTEMS • SOFTWARE • CONTROL • AI / ML**
 
@@ -38,19 +84,25 @@ I'm a Mechatronics Engineering student at the University of Waterloo building ac
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 01 // The Shifting Grove
 
 **Software + Algorithmic Intelligence**
 
-A Python/Pygame maze adventure featuring procedural maze generation, BFS pathfinding, finite-state-machine behaviour, adaptive game mechanics, and multiple interactive systems.
+A Python/Pygame maze adventure built around procedural generation, BFS pathfinding, finite-state-machine behaviour, and interconnected gameplay systems.
 
-**Tech**
+**TECH**
 
-`Python` `Pygame` `BFS` `FSM` `Procedural Generation`
+`Python` `Pygame` `BFS Pathfinding`  
+`Finite State Machines` `Procedural Generation`
 
-[View Code](https://github.com/AnshiaMY/The-Shifting-Grove) • [View Case Study](https://anshiamy.github.io/projects/the-shifting-grove.html)
+<br>
+
+[**VIEW CODE →**](https://github.com/AnshiaMY/The-Shifting-Grove)
+
+[**VIEW CASE STUDY →**](https://anshiamy.github.io/projects/the-shifting-grove.html)
 
 </td>
 
@@ -60,13 +112,16 @@ A Python/Pygame maze adventure featuring procedural maze generation, BFS pathfin
 
 **Robotics + Control**
 
-An autonomous Raspberry Pi robot using dual infrared sensors and closed-loop PID control to follow a black track. The controller was refined through multiple tuning iterations to improve tracking behaviour.
+A Raspberry Pi mobile robot using two bottom-mounted infrared sensors and PID control to track black tape on a light surface, with iterative tuning across straight and curved paths.
 
-**Tech**
+**TECH**
 
-`Python` `Raspberry Pi` `PID Control` `IR Sensors`
+`Python` `Raspberry Pi`  
+`PID Control` `Infrared Sensors`
 
-[View Case Study](https://anshiamy.github.io/projects/autonomous-line-following-robot.html)
+<br>
+
+[**VIEW CASE STUDY →**](https://anshiamy.github.io/projects/line-following-robot.html)
 
 </td>
 
@@ -76,15 +131,19 @@ An autonomous Raspberry Pi robot using dual infrared sensors and closed-loop PID
 
 **Autonomous Mechatronics**
 
-A VEX-based autonomous sorting robot using a mobile chassis, claw and lift mechanism, programmed navigation, and multiple sensors to classify routes and deliver objects to selected locations.
+A team-built VEX sorting system combining a motorized claw-and-lift mechanism, C++ control logic, sensor-based navigation, and autonomous object delivery.
 
-**Tech**
+**TECH**
 
-`C++` `VEX` `Optical Sensing` `Inertial Sensing`
+`C++` `VEX` `VEXcode`  
+`Optical Sensing` `Distance Sensing` `Gyro Feedback`
 
-[View Case Study](https://anshiamy.github.io/projects/claw-sorting-machine.html)
+<br>
+
+[**VIEW CASE STUDY →**](https://anshiamy.github.io/projects/claw-sorting-machine.html)
 
 </td>
+
 </tr>
 </table>
 
@@ -92,67 +151,91 @@ A VEX-based autonomous sorting robot using a mobile chassis, claw and lift mecha
 
 ## // ENGINEERING TOOLKIT
 
-### Programming & Development
+### Programming + Development
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++" title="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" title="VS Code"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="38" alt="Python" title="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="38" alt="C++" title="C++" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="38" alt="Java" title="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="38" alt="HTML" title="HTML" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="38" alt="CSS" title="CSS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" title="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="38" alt="Git" title="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="38" alt="VS Code" title="VS Code" />
 </p>
 
-### Engineering & Design
+<div align="center">
 
-`SolidWorks` • `AutoCAD` • `VEXcode` • `Raspberry Pi` • `Pygame`
+`Python` • `C++` • `Java` • `HTML` • `CSS` • `JavaScript` • `Git` • `GitHub` • `VS Code`
+
+</div>
+
+<br>
+
+### Engineering + Design
+
+`SolidWorks` • `AutoCAD` • `VEXcode`
+
+### Platforms + Frameworks
+
+`Raspberry Pi` • `Pygame`
 
 ---
 
 ## // CORE CONCEPTS
 
-`PID Control` • `BFS Pathfinding` • `Finite State Machines` • `Procedural Generation` • `Robotics Programming` • `Sensor-Based Systems`
+<div align="center">
+
+`PID CONTROL` &nbsp;&nbsp; `BFS PATHFINDING` &nbsp;&nbsp; `FINITE STATE MACHINES`
+
+`PROCEDURAL GENERATION` &nbsp;&nbsp; `ROBOTICS PROGRAMMING` &nbsp;&nbsp; `SENSOR-BASED SYSTEMS`
+
+</div>
 
 ---
 
 ## // CURRENTLY BUILDING
 
-### AI / ML Engineering
+<table>
+<tr>
 
-Expanding my software and intelligent-systems background toward applied AI/ML, production AI systems, and the software infrastructure surrounding them.
+<td width="50%" valign="top">
 
-**Status:** `LEARNING + BUILDING`
+### AI / ML PROJECT
 
-### C++ Systems
+**STATUS // `DESIGNING + LEARNING`**
 
-Developing deeper C++ skills through a future systems-focused engineering project.
+Developing a project that will extend my current software and intelligent-systems foundation into practical AI/ML engineering.
 
-**Status:** `PLANNING`
+**SYSTEM CYCLE**
 
----
+`DESIGN` → BUILD → TEST → ITERATE
 
-## // SYSTEM PIPELINE
+</td>
 
-<div align="center">
+<td width="50%" valign="top">
 
-### SENSORS / DATA
-↓  
-### PERCEPTION
-↓  
-### ALGORITHMS + INTELLIGENCE
-↓  
-### DECISION + CONTROL
-↓  
-### SOFTWARE + EMBEDDED EXECUTION
-↓  
-### REAL-WORLD SYSTEM
+### C++ SYSTEMS PROJECT
 
-</div>
+**STATUS // `PLANNING`**
+
+Planning a systems-focused project to strengthen my C++ engineering skills beyond my existing robotics work.
+
+**SYSTEM CYCLE**
+
+DESIGN → BUILD → TEST → ITERATE
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -160,16 +243,10 @@ Developing deeper C++ skills through a future systems-focused engineering projec
 
 <div align="center">
 
-[**Portfolio**](https://anshiamy.github.io/) •
-[**LinkedIn**](https://www.linkedin.com/in/anshiamy) •
-[**GitHub**](https://github.com/AnshiaMY)
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Always learning. Always building.**
+[**PORTFOLIO**](https://anshiamy.github.io/)
+&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+[**LINKEDIN**](https://www.linkedin.com/in/anshiamy)
+&nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+[**GITHUB**](https://github.com/AnshiaMY)
 
 </div>
