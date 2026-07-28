@@ -14,13 +14,23 @@
 
 ---
 
-## // ABOUT
+<div ali // INTELLIGENT SYSTEMS LAB
 
-Hi, I'm **Anshia Muhammad Yaqoob**, a Mechatronics Engineering student at the University of Waterloo interested in building intelligent systems across robotics, software, embedded systems, and control.
+### Intelligence in motion.
 
-My work has taken me from sensor-driven autonomous robots and control systems to pathfinding, procedural generation, and software development. I'm now expanding that foundation toward **AI/ML and intelligent systems engineering**.
+`INPUT / SENSE` → `PROCESS` → `REASON` → `CONTROL` → `ACT`
 
-Currently based in Canada.
+<br>
+
+**ROBOTICS • EMBEDDED SYSTEMS • SOFTWARE • CONTROL • AI / ML**
+
+</div>
+
+---
+
+## // TRAJECTORY
+
+I'm a Mechatronics Engineering student at the University of Waterloo building across software, robotics, embedded systems, and control. My projects currently span algorithmic software, sensor-based robotics, and autonomous mechatronic systems, and I'm deliberately expanding that foundation toward AI/ML and intelligent systems engineering.
 
 ---
 
