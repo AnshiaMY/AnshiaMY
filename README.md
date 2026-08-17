@@ -1,69 +1,87 @@
-<p align="center">
-  <img src="hero.svg" alt="Anshia Muhammad Yaqoob — Mechatronics Engineering. Robotics, Embedded Systems, Automation, and Software." width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong><a href="https://anshiamy.github.io/">Portfolio</a></strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong><a href="https://www.linkedin.com/in/anshiamy/">LinkedIn</a></strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong><a href="mailto:anshiayaqoob@gmail.com">Email</a></strong>
-</p>
+# Anshia Muhammad Yaqoob
 
-<p align="center">
-  <img src="snapshot.svg" alt="At a glance: Mechatronics Engineering at Waterloo; builds across software, electronics, and control; industrial automation experience; growing toward AI/ML and intelligent systems." width="100%" />
-</p>
+### Mechatronics Engineering | Robotics • Embedded Systems • Automation • Software
 
-Featured Builds
+[Portfolio](https://anshiamy.github.io/) · [LinkedIn](https://www.linkedin.com/in/anshiamy/) · [Email](mailto:anshiayaqoob@gmail.com)
 
-<a href="https://anshiamy.github.io/projects/line-following-robot.html">
-  <img src="project-line-follower.svg" alt="Autonomous Line-Following Robot — Raspberry Pi mobile robot using dual infrared sensors and PID control, with custom mechanical design and iterative controller tuning." width="100%" />
-</a>
+</div>
 
-<p align="right"><a href="https://anshiamy.github.io/projects/line-following-robot.html"><strong>View case study →</strong></a></p>
+---
 
-<a href="https://anshiamy.github.io/projects/claw-sorting-machine.html">
-  <img src="project-vex-sorter.svg" alt="VEX Claw Sorting Machine — autonomous sorting robot combining C++ control logic, sensor-based navigation, and a motorized claw-and-lift mechanism." width="100%" />
-</a>
+## About Me
 
-<p align="right"><a href="https://anshiamy.github.io/projects/claw-sorting-machine.html"><strong>View case study →</strong></a></p>
+I am a Mechatronics Engineering student at the University of Waterloo with an interest in building systems that bring software, electronics, control, and mechanical design together. My projects have ranged from autonomous robots and sensor-based control systems to procedural game systems and industrial automation, which has given me experience working across both hardware and software rather than treating them as separate disciplines.
 
-<a href="https://github.com/AnshiaMY/The-Shifting-Grove">
-  <img src="project-shifting-grove.svg" alt="The Shifting Grove — Python and Pygame game with procedural generation, BFS pathfinding, finite-state-machine behavior, game AI, and modular state architecture." width="100%" />
-</a>
+I am especially interested in robotics, embedded systems, automation, and software development, with a longer-term goal of exploring how AI and machine learning can be integrated into intelligent physical systems.
 
-<p align="right">
-  <a href="https://github.com/AnshiaMY/The-Shifting-Grove"><strong>View source →</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://anshiamy.github.io/projects/the-shifting-grove.html"><strong>View case study →</strong></a>
-</p>
+---
 
-Engineering Toolkit
+## Featured Projects
 
-<p align="center">
-  <img src="toolkit.svg" alt="Engineering toolkit: Python, C++, C; Raspberry Pi, sensors, PID control, VEX Robotics; SolidWorks, AutoCAD, electrical drawings, mechanical design; Git, GitHub, Pygame, object-oriented programming; PLCs, HMIs, remote I/O, and industrial networking." width="100%" />
-</p>
+### Autonomous Line-Following Robot
 
-GitHub Activity
+Designed and built an autonomous mobile robot using a Raspberry Pi, dual infrared sensors, DC motors, and a custom SolidWorks chassis, while developing and iteratively tuning a PID-based motor controller to improve tracking performance across different test paths.
 
-<!-- Generated automatically by .github/workflows/update-profile-activity.yml -->
+**Technologies:** Python · Raspberry Pi · PID Control · IR Sensors · SolidWorks · Hardware Integration
 
-<p align="center">
-  <img src="activity.svg" alt="GitHub activity summary for AnshiaMY, automatically refreshed by GitHub Actions." width="100%" />
-</p>
+[View Case Study](https://anshiamy.github.io/projects/line-following-robot.html)
 
-<p align="right"><a href="https://github.com/AnshiaMY?tab=overview"><strong>View contribution history →</strong></a></p>
+---
 
-<p align="center">
-  <img src="footer.svg" alt="Explore the systems behind the builds." width="100%" />
-</p>
+### VEX Claw Sorting Machine
 
-<p align="center">
-  <a href="https://anshiamy.github.io/"><strong>Portfolio</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anshiamy/"><strong>LinkedIn</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:anshiayaqoob@gmail.com"><strong>Email</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/AnshiaMY"><strong>GitHub</strong></a>
-</p>
+Developed an autonomous robotic sorting system in C++ that combined touch input, colour sensing, gyro-based turning, distance sensing, and a claw-and-lift mechanism to identify, retrieve, place, and return from selected targets using modular control logic.
+
+**Technologies:** C++ · VEXcode · Autonomous Robotics · Sensors · Control Logic · Modular Programming
+
+[View Case Study](https://anshiamy.github.io/projects/vex-claw-sorting-machine.html)
+
+---
+
+### The Shifting Grove
+
+Built a complete Python and Pygame game featuring procedurally generated environments, BFS-validated paths, adaptive game AI, finite state machines, collision systems, mini-games, transitions, and modular state management across both single-player and local multiplayer modes.
+
+**Technologies:** Python · Pygame · OOP · Procedural Generation · BFS Pathfinding · Game AI · Finite State Machines
+
+[View Repository](https://github.com/AnshiaMY/the-shifting-grove) · [View Case Study](https://anshiamy.github.io/projects/the-shifting-grove.html)
+
+---
+
+## Engineering Toolkit
+
+| Area                     | Technologies & Experience                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Programming**          | Python, C++, C                                                                                 |
+| **Robotics & Embedded**  | Raspberry Pi, VEX Robotics, sensors, motor control, PID control, hardware/software integration |
+| **Automation & Control** | PLCs, HMIs, remote I/O, industrial networking, electrical drawings, system integration         |
+| **Engineering Design**   | SolidWorks, AutoCAD, mechanical design, component layout, technical drawings                   |
+| **Software Development** | Git, GitHub, Pygame, object-oriented programming, finite state machines, debugging             |
+
+---
+
+## Engineering Experience
+
+During my co-op with **Phoenix Contact**, I worked with industrial automation systems involving PLCs, HMIs, remote I/O, industrial networking, control hardware, and supporting electrical components. My work included assembling and testing automation systems, troubleshooting hardware and configuration issues, preparing AutoCAD layouts, interpreting technical documentation, and supporting product selection and customer-facing technical work.
+
+The experience strengthened my ability to approach unfamiliar systems methodically, move between physical hardware and software configuration, and understand how engineering decisions affect an entire integrated system rather than only one component.
+
+---
+
+## What I'm Exploring
+
+I am continuing to develop my skills in robotics, embedded software, control systems, and software engineering while gradually moving toward more intelligent and autonomous systems. I am particularly interested in projects where sensing, computation, and physical behaviour intersect, whether that involves a robot navigating its environment, an embedded controller responding to real-world inputs, or software making decisions from dynamic system data.
+
+---
+
+<div align="center">
+
+### Explore More
+
+For detailed project breakdowns, design iterations, testing, debugging, and engineering reflections, visit my **[portfolio](https://anshiamy.github.io/)**.
+
+[Portfolio](https://anshiamy.github.io/) · [LinkedIn](https://www.linkedin.com/in/anshiamy/) · [GitHub](https://github.com/AnshiaMY)
+
+</div>
