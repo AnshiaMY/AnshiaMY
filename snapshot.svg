@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="226" viewBox="0 0 920 226" role="img" aria-labelledby="title desc">
+  <title id="title">At a glance</title>
+  <desc id="desc">Four concise profile facts covering Waterloo Mechatronics Engineering, integrated systems work, industrial automation experience, and a direction toward AI and intelligent systems.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A0E1B"/><stop offset="1" stop-color="#0D1325"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8" stop-opacity="0.55"/><stop offset="0.55" stop-color="#A78BFA" stop-opacity="0.46"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0.18"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#AAB2C8" stroke-opacity="0.04"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="918" height="224" rx="26" fill="url(#bg)" stroke="url(#frame)"/>
+  <rect x="12" y="12" width="896" height="202" rx="19" fill="url(#grid)"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="42" y="42" fill="#C4B5FD" font-size="10.5" font-weight="700" letter-spacing="2.4">AT A GLANCE</text>
+    <line x1="133" y1="38" x2="878" y2="38" stroke="#C4B5FD" stroke-opacity="0.10"/>
+
+    <!-- Card 1 -->
+    <g transform="translate(42 60)">
+      <rect width="404" height="62" rx="16" fill="#12182B" fill-opacity="0.78" stroke="#F3A6C8" stroke-opacity="0.18"/>
+      <circle cx="31" cy="31" r="14" fill="#F3A6C8" fill-opacity="0.10" stroke="#F3A6C8" stroke-opacity="0.38"/>
+      <path d="M24 29h14M27 25h8M27 33h8" stroke="#F3A6C8" stroke-width="1.5" stroke-linecap="round"/>
+      <text x="58" y="25" fill="#F8FAFC" font-size="13" font-weight="700">Mechatronics Engineering</text>
+      <text x="58" y="44" fill="#AAB2C8" font-size="11.5" font-weight="500">University of Waterloo</text>
+    </g>
+
+    <!-- Card 2 -->
+    <g transform="translate(474 60)">
+      <rect width="404" height="62" rx="16" fill="#12182B" fill-opacity="0.78" stroke="#A78BFA" stroke-opacity="0.18"/>
+      <circle cx="31" cy="31" r="14" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.38"/>
+      <circle cx="26" cy="31" r="3" fill="#C4B5FD"/><circle cx="36" cy="25" r="3" fill="#C4B5FD"/><circle cx="36" cy="37" r="3" fill="#C4B5FD"/>
+      <path d="M28.5 29.5L33.5 26.5M28.5 32.5L33.5 35.5" stroke="#C4B5FD" stroke-width="1.2"/>
+      <text x="58" y="25" fill="#F8FAFC" font-size="13" font-weight="700">Integrated systems</text>
+      <text x="58" y="44" fill="#AAB2C8" font-size="11.5" font-weight="500">Software + electronics + control</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(42 136)">
+      <rect width="404" height="62" rx="16" fill="#12182B" fill-opacity="0.78" stroke="#A78BFA" stroke-opacity="0.18"/>
+      <circle cx="31" cy="31" r="14" fill="#A78BFA" fill-opacity="0.10" stroke="#A78BFA" stroke-opacity="0.38"/>
+      <path d="M24 35V27h5v8M33 35V23h5v12M22 35h18" stroke="#C4B5FD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="58" y="25" fill="#F8FAFC" font-size="13" font-weight="700">Industrial automation</text>
+      <text x="58" y="44" fill="#AAB2C8" font-size="11.5" font-weight="500">PLCs, HMIs, I/O + networking exposure</text>
+    </g>
+
+    <!-- Card 4 -->
+    <g transform="translate(474 136)">
+      <rect width="404" height="62" rx="16" fill="#12182B" fill-opacity="0.78" stroke="#67E8F9" stroke-opacity="0.16"/>
+      <circle cx="31" cy="31" r="14" fill="#67E8F9" fill-opacity="0.07" stroke="#67E8F9" stroke-opacity="0.30"/>
+      <path d="M24 34c3-10 11-10 14 0M27 28c2-5 6-5 8 0" fill="none" stroke="#67E8F9" stroke-width="1.4" stroke-linecap="round"/>
+      <text x="58" y="25" fill="#F8FAFC" font-size="13" font-weight="700">Intelligent systems direction</text>
+      <text x="58" y="44" fill="#AAB2C8" font-size="11.5" font-weight="500">Growing toward AI/ML engineering</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="270" viewBox="0 0 920 270" role="img" aria-labelledby="title desc">
+  <title id="title">VEX Claw Sorting Machine</title>
+  <desc id="desc">Project card for an autonomous VEX sorting machine using C++, sensor-based navigation, and a motorized claw and lift mechanism.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090D19"/><stop offset="1" stop-color="#0E1426"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#A78BFA" stop-opacity="0.56"/><stop offset="0.55" stop-color="#F3A6C8" stop-opacity="0.45"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0.20"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#AAB2C8" stroke-opacity="0.04"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="918" height="268" rx="26" fill="url(#bg)" stroke="url(#frame)"/>
+  <rect x="12" y="12" width="896" height="246" rx="19" fill="url(#grid)"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="42" y="44" fill="#C4B5FD" font-size="10.5" font-weight="700" letter-spacing="2.3">02 / AUTONOMOUS MECHATRONICS</text>
+    <text x="42" y="82" fill="#F8FAFC" font-size="27" font-weight="760" letter-spacing="-0.5">VEX Claw Sorting Machine</text>
+    <text x="42" y="112" fill="#AAB2C8" font-size="13.2" font-weight="500">Autonomous sorting robot combining modular C++ control logic, sensor-based navigation,</text>
+    <text x="42" y="132" fill="#AAB2C8" font-size="13.2" font-weight="500">and a motorized claw-and-lift mechanism to classify, collect, deliver, and return.</text>
+
+    <text x="42" y="167" fill="#76809A" font-size="9.8" font-weight="700" letter-spacing="1.8">CORE STACK</text>
+    <g transform="translate(42 180)" font-size="11" font-weight="650">
+      <rect width="62" height="28" rx="9" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.22"/><text x="16" y="18" fill="#C4B5FD">C++</text>
+      <g transform="translate(72 0)"><rect width="72" height="28" rx="9" fill="#F3A6C8" fill-opacity="0.07" stroke="#F3A6C8" stroke-opacity="0.20"/><text x="17" y="18" fill="#F3A6C8">VEX</text></g>
+      <g transform="translate(154 0)"><rect width="113" height="28" rx="9" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.22"/><text x="14" y="18" fill="#C4B5FD">Color Sensing</text></g>
+      <g transform="translate(277 0)"><rect width="87" height="28" rx="9" fill="#67E8F9" fill-opacity="0.05" stroke="#67E8F9" stroke-opacity="0.18"/><text x="16" y="18" fill="#9BEAF5">Gyro</text></g>
+      <g transform="translate(374 0)"><rect width="129" height="28" rx="9" fill="#F3A6C8" fill-opacity="0.06" stroke="#F3A6C8" stroke-opacity="0.18"/><text x="14" y="18" fill="#F0B3D0">Distance Sensing</text></g>
+    </g>
+    <text x="42" y="239" fill="#C4B5FD" font-size="10.5" font-weight="700" letter-spacing="1.2">SELECT → SCAN → NAVIGATE → RELEASE → RETURN</text>
+  </g>
+
+  <!-- Mechanical / sensor motif -->
+  <g transform="translate(665 36)">
+    <rect width="210" height="194" rx="20" fill="#12182B" fill-opacity="0.70" stroke="#C4B5FD" stroke-opacity="0.12"/>
+    <text x="20" y="29" fill="#76809A" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.7">MECHANISM MAP</text>
+    <circle cx="49" cy="78" r="7" fill="#0D1224" stroke="#F3A6C8" stroke-width="2"/>
+    <circle cx="157" cy="62" r="7" fill="#0D1224" stroke="#C4B5FD" stroke-width="2"/>
+    <circle cx="165" cy="149" r="7" fill="#0D1224" stroke="#67E8F9" stroke-width="2"/>
+    <path d="M56 78H91M120 74l30-10M121 98l37 45M91 78v58" fill="none" stroke="#A78BFA" stroke-opacity="0.48" stroke-width="1.5"/>
+    <rect x="80" y="62" width="42" height="49" rx="10" fill="#0D1224" stroke="#A78BFA" stroke-opacity="0.55"/>
+    <circle cx="101" cy="86" r="8" fill="none" stroke="#C4B5FD" stroke-opacity="0.70"/>
+    <path d="M92 136V99M110 136V99M82 136h38" stroke="#F3A6C8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M82 136l-17 16M120 136l17 16" stroke="#F3A6C8" stroke-width="2" stroke-linecap="round"/>
+    <path d="M60 158h82" stroke="#AAB2C8" stroke-opacity="0.12"/>
+    <rect x="24" y="170" width="162" height="8" rx="4" fill="#A78BFA" fill-opacity="0.10"/>
+    <rect x="24" y="170" width="94" height="8" rx="4" fill="#A78BFA" fill-opacity="0.42"/>
+  </g>
+</svg>

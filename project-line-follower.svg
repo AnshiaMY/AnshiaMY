@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="270" viewBox="0 0 920 270" role="img" aria-labelledby="title desc">
+  <title id="title">Autonomous Line-Following Robot</title>
+  <desc id="desc">Project card for a Raspberry Pi robot using infrared sensors and PID control, with a custom SolidWorks chassis and iterative tuning.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090D19"/><stop offset="1" stop-color="#0E1426"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8" stop-opacity="0.62"/><stop offset="0.58" stop-color="#A78BFA" stop-opacity="0.44"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0.22"/></linearGradient>
+    <linearGradient id="path" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8"/><stop offset="0.6" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6"/></filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#AAB2C8" stroke-opacity="0.04"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="918" height="268" rx="26" fill="url(#bg)" stroke="url(#frame)"/>
+  <rect x="12" y="12" width="896" height="246" rx="19" fill="url(#grid)"/>
+
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="42" y="44" fill="#F3A6C8" font-size="10.5" font-weight="700" letter-spacing="2.3">01 / ROBOTICS + CONTROL</text>
+    <text x="42" y="82" fill="#F8FAFC" font-size="27" font-weight="760" letter-spacing="-0.5">Autonomous Line-Following Robot</text>
+    <text x="42" y="112" fill="#AAB2C8" font-size="13.2" font-weight="500">Raspberry Pi mobile robot using dual IR sensors and PID control, paired with a custom</text>
+    <text x="42" y="132" fill="#AAB2C8" font-size="13.2" font-weight="500">SolidWorks chassis and iterative controller tuning across straight and curved paths.</text>
+
+    <text x="42" y="167" fill="#76809A" font-size="9.8" font-weight="700" letter-spacing="1.8">CORE STACK</text>
+
+    <g transform="translate(42 180)" font-size="11" font-weight="650">
+      <rect width="76" height="28" rx="9" fill="#F3A6C8" fill-opacity="0.08" stroke="#F3A6C8" stroke-opacity="0.23"/><text x="15" y="18" fill="#F3A6C8">Python</text>
+      <g transform="translate(86 0)"><rect width="112" height="28" rx="9" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.22"/><text x="14" y="18" fill="#C4B5FD">Raspberry Pi</text></g>
+      <g transform="translate(208 0)"><rect width="97" height="28" rx="9" fill="#A78BFA" fill-opacity="0.08" stroke="#A78BFA" stroke-opacity="0.22"/><text x="15" y="18" fill="#C4B5FD">PID Control</text></g>
+      <g transform="translate(315 0)"><rect width="88" height="28" rx="9" fill="#67E8F9" fill-opacity="0.05" stroke="#67E8F9" stroke-opacity="0.18"/><text x="15" y="18" fill="#9BEAF5">IR Sensors</text></g>
+      <g transform="translate(413 0)"><rect width="102" height="28" rx="9" fill="#F3A6C8" fill-opacity="0.06" stroke="#F3A6C8" stroke-opacity="0.18"/><text x="15" y="18" fill="#F0B3D0">SolidWorks</text></g>
+    </g>
+
+    <text x="42" y="239" fill="#C4B5FD" font-size="10.5" font-weight="700" letter-spacing="1.2">SENSE → ERROR → PID → MOTOR RESPONSE</text>
+  </g>
+
+  <!-- Technical motif -->
+  <g transform="translate(665 36)">
+    <rect width="210" height="194" rx="20" fill="#12182B" fill-opacity="0.70" stroke="#C4B5FD" stroke-opacity="0.12"/>
+    <text x="20" y="29" fill="#76809A" font-family="Inter, sans-serif" font-size="9" font-weight="700" letter-spacing="1.7">CONTROL TRACE</text>
+    <path d="M18 148 C48 148, 46 58, 88 58 S114 160, 148 160 S160 83, 192 83" fill="none" stroke="url(#path)" stroke-width="2.3"/>
+    <path d="M18 148 C48 148, 46 58, 88 58 S114 160, 148 160 S160 83, 192 83" fill="none" stroke="#A78BFA" stroke-width="10" stroke-opacity="0.06" filter="url(#glow)"/>
+    <path d="M20 172H190" stroke="#AAB2C8" stroke-opacity="0.10"/>
+    <path d="M20 46H190" stroke="#AAB2C8" stroke-opacity="0.08" stroke-dasharray="4 6"/>
+    <circle cx="52" cy="145" r="5" fill="#0D1224" stroke="#F3A6C8" stroke-width="2"/>
+    <circle cx="86" cy="60" r="5" fill="#0D1224" stroke="#C4B5FD" stroke-width="2"/>
+    <circle cx="149" cy="158" r="5" fill="#0D1224" stroke="#A78BFA" stroke-width="2"/>
+    <circle cx="188" cy="84" r="5" fill="#0D1224" stroke="#67E8F9" stroke-width="2"/>
+    <g transform="translate(44 105)">
+      <rect x="0" y="0" width="44" height="22" rx="7" fill="#080B14" stroke="#F3A6C8" stroke-opacity="0.30"/>
+      <circle cx="11" cy="11" r="3" fill="#F3A6C8"/><circle cx="33" cy="11" r="3" fill="#A78BFA"/>
+      <path d="M11 17v12M33 17v12" stroke="#AAB2C8" stroke-opacity="0.35"/>
+    </g>
+  </g>
+</svg>

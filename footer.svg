@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="176" viewBox="0 0 920 176" role="img" aria-labelledby="title desc">
+  <title id="title">Explore the systems behind the builds</title>
+  <desc id="desc">A dark navy closing panel with subtle blush and violet system traces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080B14"/><stop offset="1" stop-color="#0F1528"/></linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8" stop-opacity="0.58"/><stop offset="0.55" stop-color="#A78BFA" stop-opacity="0.46"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0.20"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F3A6C8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="918" height="174" rx="26" fill="url(#bg)" stroke="url(#frame)"/>
+  <path d="M0 128 C110 128, 105 40, 220 40 S310 136, 416 136 S505 48, 618 48 S718 126, 920 126" fill="none" stroke="url(#accent)" stroke-opacity="0.16" stroke-width="1.5"/>
+  <g fill="#0D1224" stroke-width="1.5">
+    <circle cx="220" cy="40" r="5" stroke="#F3A6C8"/><circle cx="416" cy="136" r="5" stroke="#C4B5FD"/><circle cx="618" cy="48" r="5" stroke="#A78BFA"/>
+  </g>
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" text-anchor="middle">
+    <text x="460" y="70" fill="#76809A" font-size="10" font-weight="700" letter-spacing="2.5">PORTFOLIO / SOURCE / CONTACT</text>
+    <text x="460" y="104" fill="#F8FAFC" font-size="22" font-weight="740">Explore the systems behind the builds.</text>
+    <text x="460" y="130" fill="#AAB2C8" font-size="11.5" font-weight="500">Process, implementation, testing, and the engineering decisions in between.</text>
+  </g>
+</svg>
